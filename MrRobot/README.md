@@ -1,7 +1,5 @@
 # MrRobot
 
-![Untitled](MrRobot%206d995288f07c477eb342aa2481837baf/Untitled.png)
-
 Sau khi cài đặt xong, do chưa biết địa chỉ IP nên bước đầu tiên là phải xác định IP bằng cách nmap với dải mạng đã biết là 192.168.113.0/24 port 80 để xác định IP của máy MrRobot là bao nhiêu.
 
 ![Untitled](MrRobot%206d995288f07c477eb342aa2481837baf/Untitled%201.png)
